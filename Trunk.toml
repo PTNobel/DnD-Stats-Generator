@@ -1,0 +1,5 @@
+[build]
+# The output dir for all final assets.
+dist = "docs"
+# The public URL from which assets are to be served.
+public_url = "/DnD-Stats-Generator/"
